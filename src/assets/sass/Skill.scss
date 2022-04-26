@@ -1,0 +1,25 @@
+.skill{
+    h3{
+        border: 1px solid black;
+        text-align: center;
+    }
+    
+    ul{
+        display: flex;
+        margin-left: 150px;
+        li{
+            margin-left: 25px;
+            
+        }
+    }
+    text-align: center;
+    span{
+        font-size: 30px;
+
+        
+    }
+    i{
+        color: #2962ff;
+        background-color: black;
+    }
+}

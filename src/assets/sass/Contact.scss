@@ -1,0 +1,17 @@
+.contact{
+  margin-top: 150px;
+    h3{
+        border: 1px solid black;
+        margin-left: 70px;
+        color: white;
+    }
+    ul{
+        list-style: none;
+        color: white;
+        li{
+            .fas{
+               margin-left: -20px;
+            }
+        }
+    }
+}
